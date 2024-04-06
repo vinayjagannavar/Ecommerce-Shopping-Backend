@@ -154,7 +154,7 @@ public class User {
     
     private LocalDateTime createdAt;
     
-    public User() {
+    /*public User() {
         // Default constructor
     }
 
@@ -174,7 +174,7 @@ public class User {
 		this.ratings = ratings;
 		this.reviews = reviews;
 		this.createdAt = createdAt;
-	}
+	}*/
 
     
 }
