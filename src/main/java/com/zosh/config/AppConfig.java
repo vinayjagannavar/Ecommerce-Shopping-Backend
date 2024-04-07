@@ -43,7 +43,7 @@ public class AppConfig {
 								"http://localhost:3000", 
 								"http://localhost:4000",
 								"http://localhost:4200",
-								"https://clothcrafters.vercel.app"
+								"https://clothcrafters.vercel.app/"
 								
 							)
 						);
